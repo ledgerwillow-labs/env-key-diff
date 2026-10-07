@@ -1,0 +1,11 @@
+{
+  "added": [
+    "TOKEN"
+  ],
+  "removed": [
+    "PORT"
+  ],
+  "changed": [
+    "HOST"
+  ]
+}

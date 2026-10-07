@@ -1,0 +1,10 @@
+{
+  "before": {
+    "HOST": "a",
+    "PORT": "80"
+  },
+  "after": {
+    "HOST": "b",
+    "TOKEN": "demo"
+  }
+}
